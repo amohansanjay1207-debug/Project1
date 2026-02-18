@@ -7,3 +7,5 @@ Adding line in localbranch3
 Adding one line for localbranch4
 
 Adding another one line for localbranch4
+
+a new change from intellij
